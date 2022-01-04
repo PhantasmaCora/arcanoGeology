@@ -1,0 +1,9 @@
+
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "arcanogeology:cobbled_asranite"
+	},
+	"result": "arcanogeology:raw_asranite",
+	"count": 1
+}

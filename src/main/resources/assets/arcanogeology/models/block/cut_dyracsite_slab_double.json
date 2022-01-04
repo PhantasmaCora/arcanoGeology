@@ -1,0 +1,8 @@
+
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "arcanogeology:block/polished_dyracsite",
+    "side": "arcanogeology:block/slab_dyracsite"
+  }
+}

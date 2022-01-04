@@ -1,0 +1,9 @@
+
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "arcanogeology:raw_skiratite"
+	},
+	"result": "arcanogeology:polished_skiratite",
+	"count": 1
+}

@@ -1,0 +1,14 @@
+
+{
+  "variants": {
+    "type=bottom": {
+      "model": "arcanogeology:block/cobbled_skiratite_slab"
+    },
+    "type=double": {
+      "model": "arcanogeology:block/cobbled_skiratite"
+    },
+    "type=top": {
+      "model": "arcanogeology:block/cobbled_skiratite_slab_top"
+    }
+  }
+}

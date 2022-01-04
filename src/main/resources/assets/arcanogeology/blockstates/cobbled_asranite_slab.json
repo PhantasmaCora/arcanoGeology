@@ -1,0 +1,14 @@
+
+{
+  "variants": {
+    "type=bottom": {
+      "model": "arcanogeology:block/cobbled_asranite_slab"
+    },
+    "type=double": {
+      "model": "arcanogeology:block/cobbled_asranite"
+    },
+    "type=top": {
+      "model": "arcanogeology:block/cobbled_asranite_slab_top"
+    }
+  }
+}

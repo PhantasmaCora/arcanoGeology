@@ -1,0 +1,10 @@
+
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "arcanogeology:cobbled_dyracsite"
+	},
+	"result": "arcanogeology:raw_dyracsite",
+	"count": 1,
+	"experience": 0
+}

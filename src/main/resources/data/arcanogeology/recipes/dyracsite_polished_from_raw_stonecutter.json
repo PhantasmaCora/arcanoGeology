@@ -1,0 +1,9 @@
+
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "arcanogeology:raw_dyracsite"
+	},
+	"result": "arcanogeology:polished_dyracsite",
+	"count": 1
+}

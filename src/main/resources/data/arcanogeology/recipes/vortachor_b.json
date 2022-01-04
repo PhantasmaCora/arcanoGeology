@@ -1,0 +1,20 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AO",
+    "OA"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "arcanogeology:raw_asranite"
+    }
+  },
+  "result": {
+    "item": "arcanogeology:vortachor",
+    "count": 4
+  }
+}

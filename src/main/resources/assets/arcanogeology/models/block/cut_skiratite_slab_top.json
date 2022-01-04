@@ -1,0 +1,9 @@
+
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "arcanogeology:block/polished_skiratite",
+    "top": "arcanogeology:block/polished_skiratite",
+    "side": "arcanogeology:block/slab_skiratite"
+  }
+}

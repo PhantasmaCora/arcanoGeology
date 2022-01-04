@@ -1,0 +1,9 @@
+
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "arcanogeology:cobbled_skiratite"
+	},
+	"result": "arcanogeology:raw_skiratite",
+	"count": 1
+}

@@ -1,0 +1,9 @@
+
+{
+  "replace": false,
+  "values": [
+      "arcanogeology:raw_dyracsite",
+      "arcanogeology:cobbled_dyracsite",
+      "arcanogeology:diresten"
+  ]
+}

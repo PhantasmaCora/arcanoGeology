@@ -1,0 +1,9 @@
+
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "arcanogeology:cobbled_dyracsite"
+	},
+	"result": "arcanogeology:cobbled_dyracsite_slab",
+	"count": 2
+}

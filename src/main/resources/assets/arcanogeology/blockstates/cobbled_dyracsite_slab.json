@@ -1,0 +1,14 @@
+
+{
+  "variants": {
+    "type=bottom": {
+      "model": "arcanogeology:block/cobbled_dyracsite_slab"
+    },
+    "type=double": {
+      "model": "arcanogeology:block/cobbled_dyracsite"
+    },
+    "type=top": {
+      "model": "arcanogeology:block/cobbled_dyracsite_slab_top"
+    }
+  }
+}

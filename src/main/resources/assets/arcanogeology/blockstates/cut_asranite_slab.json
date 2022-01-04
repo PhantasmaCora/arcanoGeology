@@ -1,0 +1,14 @@
+
+{
+  "variants": {
+    "type=bottom": {
+      "model": "arcanogeology:block/cut_asranite_slab"
+    },
+    "type=double": {
+      "model": "arcanogeology:block/cut_asranite_slab_double"
+    },
+    "type=top": {
+      "model": "arcanogeology:block/cut_asranite_slab_top"
+    }
+  }
+}

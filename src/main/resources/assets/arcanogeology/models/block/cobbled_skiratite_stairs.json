@@ -1,0 +1,9 @@
+
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "arcanogeology:block/cobbled_skiratite",
+    "top": "arcanogeology:block/cobbled_skiratite",
+    "side": "arcanogeology:block/cobbled_skiratite"
+  }
+}

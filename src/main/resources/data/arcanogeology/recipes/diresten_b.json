@@ -1,0 +1,20 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SD",
+    "DS"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dripstone_block"
+    },
+    "S": {
+      "item": "arcanogeology:raw_skiratite"
+    }
+  },
+  "result": {
+    "item": "arcanogeology:diresten",
+    "count": 4
+  }
+}

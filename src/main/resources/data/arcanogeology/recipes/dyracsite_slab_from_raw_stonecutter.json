@@ -1,0 +1,9 @@
+
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "arcanogeology:raw_dyracsite"
+	},
+	"result": "arcanogeology:cut_dyracsite_slab",
+	"count": 2
+}

@@ -1,0 +1,9 @@
+
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "arcanogeology:block/cut_asranite",
+    "top": "arcanogeology:block/cut_asranite",
+    "side": "arcanogeology:block/cut_asranite"
+  }
+}

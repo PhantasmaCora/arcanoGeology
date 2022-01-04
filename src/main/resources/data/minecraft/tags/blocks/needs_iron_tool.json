@@ -1,0 +1,11 @@
+
+{
+  "replace": false,
+  "values": [
+      "arcanogeology:raw_skiratite",
+      "arcanogeology:cobbled_skiratite",
+      "arcanogeology:raw_asranite",
+      "arcanogeology:cobbled_asranite",
+      "arcanogeology:vortachor"
+  ]
+}
